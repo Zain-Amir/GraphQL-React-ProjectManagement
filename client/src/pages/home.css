@@ -1,0 +1,8 @@
+.custom-card {
+    background-color: black;
+    height: 100px;
+    width: calc(50% - 1rem); /* Adjust as needed */
+    text-decoration: none; /* Remove default link styling */
+    color: inherit; /* Inherit text color from parent */
+  }
+  
